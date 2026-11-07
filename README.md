@@ -1,20 +1,56 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# Hi, I'm Salman Hamidi 👋
 
+**Python Backend Developer | Django & Django REST Framework**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/salman.shaa2024) 
+I build backend systems and web applications with a focus on practical business needs, well-structured APIs, and reliable database design. I enjoy taking projects from planning and implementation through deployment and maintenance.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=salman-hamidi-2007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=salman-hamidi-2007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=salman-hamidi-2007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🔭 Currently building web applications with **Python, Django, and Django REST Framework**
+- 🧩 Interested in backend architecture, REST APIs, PostgreSQL, and production deployment
+- 🌱 Expanding my frontend skills with **TypeScript, React, and Next.js**
+- 💬 Ask me about Python, Django, DRF, PostgreSQL, Linux, and web application deployment
 
+## Core Technologies
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/salmanhamidi) 
-
+**Backend**
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+
+**Database & Tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Frontend — currently expanding**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+## Selected Work
+
+### Pishroo Shop
+A computer products e-commerce platform, built around real store workflows and business requirements.
+
+- Product catalog and inventory management
+- Customer, order, and payment workflows
+- Backend powered by Django
+- Website: [pishrooshop.ir](https://www.pishrooshop.ir/)
+
+### Personal Website
+My personal website and portfolio, where I present my work and development journey.
+
+- Website: [salmanhamidi.ir](https://salmanhamidi.ir/)
+
+> More project details and source-code links will be added as individual repositories are prepared for public presentation.
+
+## Connect
+
+- 🌐 Website: [salmanhamidi.ir](https://salmanhamidi.ir)
+- 💬 Telegram: [@Salman_shaa](https://t.me/Salman_shaa)
